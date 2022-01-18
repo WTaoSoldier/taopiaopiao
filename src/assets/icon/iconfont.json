@@ -1,0 +1,65 @@
+{
+  "id": "3013985",
+  "name": "tpp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21838152",
+      "name": "点赞",
+      "font_class": "dianzan2",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "11742186",
+      "name": "内部推荐",
+      "font_class": "tubiaozhizuomoban",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "11372651",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e8ad",
+      "unicode_decimal": 59565
+    },
+    {
+      "icon_id": "11372758",
+      "name": "点赞",
+      "font_class": "dianzan1",
+      "unicode": "e8c3",
+      "unicode_decimal": 59587
+    },
+    {
+      "icon_id": "26452626",
+      "name": "喜爱",
+      "font_class": "xiai-copy",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "26452636",
+      "name": "五角星",
+      "font_class": "wujiaoxing--copy",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "5028",
+      "name": "喜爱",
+      "font_class": "xiai",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "3205015",
+      "name": "五角星",
+      "font_class": "wujiaoxing-",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    }
+  ]
+}
